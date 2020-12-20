@@ -1,0 +1,15 @@
+.header {
+    color: white;
+    font-family: 'Yeon Sung';
+    margin-top: 10px;
+}
+
+#body {
+    height: 100%;
+    margin: 0;
+}
+
+.login_div {
+    float: none;
+    border-radius: 15px;
+}
